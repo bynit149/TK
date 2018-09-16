@@ -4,7 +4,7 @@ pkg install coreutils
 apt install git
 pkg install nodejs-current
 pkg install nodejs-current-dev
-git clone https://github.com/tankeng/bin5.git
+https://github.com/bynit149/TK.git
 cd bin5 && cd src && nano main.js
 npm i
 npm install
@@ -19,6 +19,6 @@ sudo apt-get install python-software-properties
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - 
 sudo apt-get install nodejs 
 sudo apt-get install npm 
-git clone https://github.com/tankeng/bin5.git
+https://github.com/bynit149/TK.git
 cd bin5 && npm install 
 npm start
